@@ -41,3 +41,7 @@ From this folder, run `python -m http.server 8000`, then open `http://localhost:
 - [ ] All external resources checked for current availability and correct attribution.
 
 No live deployment or GitHub modification has been performed by this handoff.
+
+## V5.1 visual update
+
+The site now has a larger, more colorful responsive visual system. The public catalogue CSV export links and file were removed intentionally. The website still loads its public JSON catalogue for in-browser searching. Synthetic practice dataset CSV downloads are retained. The exact creator attribution appears in the shared header and footer.
